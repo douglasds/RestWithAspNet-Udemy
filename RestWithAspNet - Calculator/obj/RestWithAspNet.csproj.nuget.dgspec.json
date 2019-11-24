@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet.csproj": {}
+    "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet - Calculator\\RestWithAspNet.csproj": {}
   },
   "projects": {
-    "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet.csproj": {
+    "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet - Calculator\\RestWithAspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet.csproj",
+        "projectUniqueName": "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet - Calculator\\RestWithAspNet.csproj",
         "projectName": "RestWithAspNet",
-        "projectPath": "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet\\RestWithAspNet.csproj",
+        "projectPath": "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet - Calculator\\RestWithAspNet.csproj",
         "packagesPath": "C:\\Users\\DouG\\.nuget\\packages\\",
-        "outputPath": "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet\\obj\\",
+        "outputPath": "E:\\Files\\Estudos\\Udemy\\RestWithAspNet\\RestWithAspNet-Udemy\\RestWithAspNet - Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
